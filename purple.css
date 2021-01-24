@@ -1,0 +1,15 @@
+:root{
+	--mainColor:#46344E;
+	--secondaryColor:#382a3f;
+
+	--borderColor:#c1c1c1;
+
+	--mainText:white;
+	--secondaryText:#eeeeee;
+
+
+	--btncolor:black;
+}
+p{
+	color: var(--mainText)
+}
